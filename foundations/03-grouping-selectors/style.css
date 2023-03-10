@@ -1,11 +1,11 @@
-.bw .yellow{
+.button{
     font-family: Arial, Helvetica, sans-serif;font-size: 28px;
 }
 
-.bw{
+.one{
     background-color: black;color: white;
 }
 
-.yellow{
+.two{
     background-color: yellow;
 }
